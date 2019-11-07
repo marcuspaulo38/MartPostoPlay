@@ -1,0 +1,11 @@
+{
+  "background_color": "#FFF",
+  "display": "standalone",
+  "name": "HelloWordPhonegap",
+  "short_name": "HelloWordPhonegap",
+  "version": "com.marcus.hellophonegap",
+  "description": "Hello World sample application that responds to the deviceready event.",
+  "author": "PhoneGap Team",
+  "icons": [],
+  "start_url": "index.html"
+}
